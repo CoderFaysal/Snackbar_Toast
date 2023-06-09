@@ -1,5 +1,7 @@
 # Snackbar Toast
 
 ```
-Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+Snackbar.make(snackbarToast, "Snackbar Toast", Snackbar.LENGTH_LONG).setAction("Action", null).show();
 ```
+
+#### snackbarToast: this is button id Name.
